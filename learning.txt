@@ -1,0 +1,10 @@
+In the SE 102 Course this is what I've learnt so far
+1. Basic git commands
+2. git add .
+3. git commit
+4. git push
+5. git status
+6. git log and git log --oneline
+7. git diff
+8. git branch
+9. git merge
